@@ -1,0 +1,26 @@
+1. Number of matches by teams 
+2. Number of venues by matches
+3. Number of games in each city by teams
+4. Number of matches won by each team and venue-based
+5. Most run by players
+6. Most matches won by the team
+7. Most sixes scored by a batsman
+8. Most fours scored by a batsman
+9. Most balls faced by batsman
+10. Best strike rate by the batsman
+11. Most duck out batsman
+12. Individual scores by the number of balls faced and stadium
+13. top 5 batsman, top 5 bowler
+14. Most wickets by bowlers[team-wise]
+15. Most dot balls bowled by bowlers
+16. Most fours and sixes conceded by bowlers
+17. Extras bowled by bowlers[No Ball]
+18. First ball wickets
+19. Average scoring by overs
+20. Average team strike rate by teams
+21. Total wickets taken by teams
+22. A total of six scored by teams
+23. A total of four scored by teams
+24. Total fours and six conceded by teams
+25. Number of won matches and number of lost matches by teams
+
